@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAURAV-937
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Database and Front-end Technologies.
+- 👀 Interested in Web Technologies
+- 🌱 Currently learning Database and Front-end Technologies.
 - 💞️ I’m collaborating for MoSahay and Techstain.
 - 📫 Reach out to me -> sk802301@gmail.com
 
